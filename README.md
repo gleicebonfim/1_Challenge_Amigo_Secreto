@@ -1,6 +1,6 @@
-# 🎉 **Challenge Amigo Secreto ** 🎉
+# 🎉 **Challenge do Amigo Secreto ** 🎉
 
-A aplicação **Challenge Amigo Secreto** permite que você e seus amigos participem de um sorteio de **Amigo Secreto** de forma simples. 
+A aplicação **Challenge do Amigo Secreto** permite que você e seus amigos participem de um sorteio de **Amigo Secreto** de forma simples. 
 Basta adicionar os amigos, realizar o sorteio e, se desejar, reiniciar a lista para um novo sorteio.
 Esse projeto foi desenvolvido durante o modulo Iniciante em Programação da Alura pelo programa ONE da Oracle, tem como objetivo sortear uma pessoa aleatoriamente para um amigo secreto.
 
@@ -23,9 +23,9 @@ Esse projeto foi desenvolvido durante o modulo Iniciante em Programação da Alu
 - **Reiniciar Sorteio**: Limpa a lista de amigos e o resultado do sorteio, permitindo fazer um novo sorteio.
 
 ## 📸 **Visão Geral da Aplicação**
-
-![tela da app](https://github.com/user-attachments/assets/73861d9f-40d7-47a5-8180-1c117ea07855)
-
+Você pode acessar a versão ao vivo do projeto hospedado no Vercel clicando no link abaixo:
+[**Challenge do Amigo Secreto**](https://1-challenge-amigo-secreto.vercel.app)
+ou através do [**Reposítório do GitHub**](https://github.com/gleicebonfim/1_Challenge_Amigo_Secreto/tree/main)
 
 ## 🛠️ **Como Executar o Projeto Localmente**
 

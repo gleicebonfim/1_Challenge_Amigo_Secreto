@@ -24,9 +24,8 @@ Esse projeto foi desenvolvido durante o modulo Iniciante em Programação da Alu
 
 ## 📸 **Visão Geral da Aplicação**
 
-Aqui está uma demonstração visual da aplicação em funcionamento:
+![tela da app](https://github.com/user-attachments/assets/73861d9f-40d7-47a5-8180-1c117ea07855)
 
-![gif-demo](https://media.giphy.com/media/9J7o8DFpZI1p8/giphy.gif)
 
 ## 🛠️ **Como Executar o Projeto Localmente**
 
@@ -46,5 +45,3 @@ Aqui está uma demonstração visual da aplicação em funcionamento:
 5. Envie para o repositório remoto (git push origin feature-nome-da-sua-feature).
 6. Abra um pull request para revisão.
 
-## 🖋️ Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.

@@ -45,3 +45,7 @@ ou através do [**Reposítório do GitHub**](https://github.com/gleicebonfim/1_C
 5. Envie para o repositório remoto (git push origin feature-nome-da-sua-feature).
 6. Abra um pull request para revisão.
 
+## 📫 **Contato**
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
+- **LinkedIn**: [Gleice Bonfim](www.linkedin.com/in/gleice-bonfim-23174a62)
+- **GitHub**: [@gleicebonfim](https://github.com/gleicebonfim)
